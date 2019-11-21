@@ -1,0 +1,14 @@
+/*
+ *= require bootstrap.min.css
+ *= require now-ui-dashboard.css
+*/
+
+@font-face {
+  font-family: 'Nucleo Outline';
+  src: url(font-path('glyphicons-halflings-regular.eot'));
+  src: url(font-path('nucleo-outline.eot')) format("embedded-opentype"),
+       url(font-path('nucleo-outline.woff2')) format("woff2"),
+       url(font-path('nucleo-outline.woff')) format("woff"),
+       url(font-path('nucleo-outline.ttf')) format("truetype");
+  font-weight: normal;
+  font-style: normal; }
